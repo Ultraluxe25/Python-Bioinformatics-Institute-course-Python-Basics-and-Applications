@@ -1,1 +1,1 @@
-# Python Bioinformatics Institute course 2
+# Python Bioinformatics Institute course - Python: Basics and Applications
